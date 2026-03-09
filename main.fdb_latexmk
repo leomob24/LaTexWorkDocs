@@ -1,0 +1,25 @@
+# Fdb version 4
+["pdflatex"] 1773070353.17283 "/Users/lm287091/Documents/Work-Docs/LaTexWorkDocs/main.tex" "main.pdf" "main" 1773070353.23039 0
+  "/Users/lm287091/Documents/Work-Docs/LaTexWorkDocs/main.tex" 1773069734.71808 351 aba58cabc775d17c63fa2a6d7c028b16 ""
+  "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
+  "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "/usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/article.cls" 1748806692 20144 b966087dda3b194755eb460d32e2ef75 ""
+  "/usr/local/texlive/2026basic/texmf-dist/tex/latex/base/size12.clo" 1748806692 8449 8dc66c6c313c8eb2d774af83bca435dd ""
+  "/usr/local/texlive/2026basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1761248321 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
+  "/usr/local/texlive/2026basic/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
+  "/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1773068423 79187 e3f5941707347d15c1721f52279213a2 ""
+  "/usr/local/texlive/2026basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1773068403 2966186 8a1eda67bdb37d0b2fee72292064a419 ""
+  "/usr/local/texlive/2026basic/texmf.cnf" 1772405582 628 bbc09d6d38872d53c11bb48dc9b14e88 ""
+  "main.aux" 1773070353.22134 434 e479fd0c21a4a4249342c8eca1308f23 "pdflatex"
+  "main.tex" 1773069734.71808 351 aba58cabc775d17c63fa2a6d7c028b16 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)

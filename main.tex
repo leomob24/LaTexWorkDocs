@@ -1,5 +1,7 @@
 \documentclass[12pt]{article}
 \usepackage{graphicx}
+\usepackage{attachfile}
+\usepackage{float}
 \graphicspath{ {./images/} }
 
 \title{Work at the Mdls Lab Documentation}
@@ -9,17 +11,42 @@
 
 \maketitle
 
-\section{Analyse the dataset}
-some content here.
+\section{Analyze the dataset}
+The first step I needed to do was to have a complete description
+of the crucial columns of the dataset that I needed to work on.
+This is important to understand the data and to be able to
+analyze the dataset. 
+I then loaded the data into a jupyter notebook and using pandas 
+and matplotilib I did basic statistics and plotting to 
+try to understand the data better.
+After that I filtered the dataset to keep only the columns
+that were relevant for my analysis and created a new Excel file
+to store the filtered data.
 
 \subsection{Plotting and statistics}
-Add subsections as needed.
-\begin{figure}[ht]
-  \centering
-  \includegraphics[width=\linewidth]{plot}
-  \caption{My dataset plot}
-  \label{fig:dataset-plot}
-\end{figure}
-
-
+The first statistic that I did was to calculate the mean and 
+plot the age distribution of the patients in the dataset.
+  \begin{figure}[H]
+    \centering
+    \includegraphics[width=\linewidth]{ageDistribution.png}
+    \caption{Age distribution plot}
+    \label{fig:dataset-plot}
+  \end{figure}
+Than I procided to calculate for each column how many 
+missing values there were. (see attached file)
+\attachfile[description=attached file,icon=Paperclip,]{/Users/lm287091/Documents/Work-Docs/countNull.xlsx}
+I calculated the sex distribution of the patients in the dataset
+and plotted it as a pie chart.
+  \begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\linewidth]{sexDIstribution.png}
+    \caption{Sex distribution counts and percentages}
+    \label{fig:dataset-plot2}
+  \end{figure}
+  \begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\linewidth]{sexDistributionPlot.png}
+    \caption{Sex distribution plot}
+    \label{fig:dataset-plot3}
+  \end{figure}
 \end{document}

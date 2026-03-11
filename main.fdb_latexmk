@@ -1,7 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1773156963.00171 "/Users/lm287091/Documents/Work-Docs/LaTexWorkDocs/main.tex" "main.pdf" "main" 1773156963.20243 0
-  "/Users/lm287091/Documents/Work-Docs/LaTexWorkDocs/main.tex" 1773156962.8219 1804 9cef50226f0d03953dd45a1dfcd1f81f ""
-  "/Users/lm287091/Documents/Work-Docs/countNull.xlsx" 1773152368.05584 9850 0c81705653add85a3e0ffff1e2fa386d ""
+["pdflatex"] 1773222845.34708 "/Users/lm287091/Documents/Work-Docs/LaTexWorkDocs/main.tex" "main.pdf" "main" 1773222845.63677 0
+  "/Users/lm287091/Documents/Work-Docs/LaTexWorkDocs/main.tex" 1773222845.14206 3625 8278dea046581ef0c7c695316053cdf9 ""
+  "/Users/lm287091/Documents/Work-Docs/centersCounts.xlsx" 1773219810.99415 5878 ca649a2f54865dbf915abddc4b85139e ""
+  "/Users/lm287091/Documents/Work-Docs/countNull.xlsx" 1773218712.50252 10711 88c176e891e617af3fea3192c986bcc1 ""
+  "/Users/lm287091/Library/texlive/2026basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk" 1773222812.79907 14040 e44093d3877904aefb7fa4393b86235d ""
+  "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -58,11 +61,16 @@
   "/usr/local/texlive/2026basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1773068403 2966186 8a1eda67bdb37d0b2fee72292064a419 ""
   "/usr/local/texlive/2026basic/texmf.cnf" 1772405582 628 bbc09d6d38872d53c11bb48dc9b14e88 ""
   "images/ageDistribution.png" 1773155031.50702 30717 c3424f5015bb21350c2b163b7f62f5dd ""
+  "images/centersDistributionPlot.png" 1773220086.83749 54446 97cc06ff8e3316451927a0aa9eaa2b4f ""
+  "images/mrs3Months.png" 1773221934.66516 24006 27b848383bda308d5094662422870056 ""
+  "images/mrs3MonthsPlot.png" 1773222012.11097 17514 6c084d88416ea2dc9b6432d25bf3b697 ""
+  "images/numThrombo.png" 1773220832.64178 8223 b9e5be091fed5a36d47690e48f0d5a26 ""
+  "images/numThromboPlot.png" 1773220990.8717 15178 37eb223a0b3707522abd1bfe959e4c8c ""
   "images/sexDIstribution.png" 1773156491.01552 13891 7d7aefcf1b370d84493a87f6eb98a5d9 ""
   "images/sexDistributionPlot.png" 1773156825.04724 12966 1f6e32b4a5615e89af21d6e1b31e6c7d ""
-  "main.aux" 1773156963.18238 1055 51f3b7907bc4cfd95526ba9411534311 "pdflatex"
-  "main.out" 1773156963.1829 322 04e078bc450814851fcfe4d9a7cda46d "pdflatex"
-  "main.tex" 1773156962.8219 1804 9cef50226f0d03953dd45a1dfcd1f81f ""
+  "main.aux" 1773222845.61276 2187 fe498df27333c91ca13cafc551a08bea "pdflatex"
+  "main.out" 1773222845.6133 322 04e078bc450814851fcfe4d9a7cda46d "pdflatex"
+  "main.tex" 1773222845.14206 3625 8278dea046581ef0c7c695316053cdf9 ""
   (generated)
   "main.aux"
   "main.log"

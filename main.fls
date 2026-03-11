@@ -176,6 +176,14 @@ INPUT ./images/nihPost.png
 INPUT ./images/nihPost.png
 INPUT ./images/nihPost.png
 INPUT ./images/nihPost.png
+INPUT ./images/nih24h.png
+INPUT ./images/nih24h.png
+INPUT ./images/nih24h.png
+INPUT ./images/nih24h.png
+INPUT ./images/numThrombectomy.png
+INPUT ./images/numThrombectomy.png
+INPUT ./images/numThrombectomy.png
+INPUT ./images/numThrombectomy.png
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

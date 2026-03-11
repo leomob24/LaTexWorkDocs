@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.9)  11 MAR 2026 11:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.9)  11 MAR 2026 14:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -369,7 +369,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) ha
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.152 
-       <./images/nihPost.png>] [11] (./main.aux)
+       <./images/nihPost.png>]
+<./images/nih24h.png, id=106, 569.12625pt x 488.82625pt>
+File: ./images/nih24h.png Graphic file (type png)
+<use ./images/nih24h.png>
+Package pdftex.def Info: ./images/nih24h.png  used on input line 159.
+(pdftex.def)             Requested size: 390.0pt x 334.98567pt.
+ [11
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.164 
+       <./images/nih24h.png>]
+<./images/numThrombectomy.png, id=113, 218.8175pt x 59.22125pt>
+File: ./images/numThrombectomy.png Graphic file (type png)
+<use ./images/numThrombectomy.png>
+Package pdftex.def Info: ./images/numThrombectomy.png  used on input line 168.
+(pdftex.def)             Requested size: 195.0pt x 52.7754pt.
+ [12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.174 \end{document}
+                     <./images/numThrombectomy.png>] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -378,18 +400,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 04E078BC450814851FCFE4D9A7CDA46D;322.
  ) 
 Here is how much of TeX's memory you used:
- 8910 strings out of 469006
- 141194 string characters out of 5454814
- 546424 words of memory out of 5000000
- 37502 multiletter control sequences out of 15000+600000
+ 8933 strings out of 469006
+ 141766 string characters out of 5454814
+ 546540 words of memory out of 5000000
+ 37522 multiletter control sequences out of 15000+600000
  630481 words of font info for 49 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  90i,7n,93p,334b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/lm287091/Library/texlive/2026basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (11 pages, 246797 bytes).
+Output written on main.pdf (12 pages, 266584 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
- 27 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 30 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 

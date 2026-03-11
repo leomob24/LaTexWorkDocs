@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.9)  11 MAR 2026 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.9)  11 MAR 2026 11:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -315,7 +315,61 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.100 \noindent
-                One of the most crucial statistic is the aspectj0 <./images/mrs3Months.png> <./images/mrs3MonthsPlot.png>] [7] (./main.aux)
+                One of the most crucial statistic is the aspectj0 <./images/mrs3Months.png> <./images/mrs3MonthsPlot.png>]
+<./images/aspectj0.png, id=73, 226.8475pt x 241.90375pt>
+File: ./images/aspectj0.png Graphic file (type png)
+<use ./images/aspectj0.png>
+Package pdftex.def Info: ./images/aspectj0.png  used on input line 106.
+(pdftex.def)             Requested size: 195.0pt x 207.94456pt.
+<./images/aspectj0Plot.png, id=74, 566.115pt x 449.68pt>
+File: ./images/aspectj0Plot.png Graphic file (type png)
+<use ./images/aspectj0Plot.png>
+Package pdftex.def Info: ./images/aspectj0Plot.png  used on input line 112.
+(pdftex.def)             Requested size: 272.99881pt x 216.85258pt.
+ [7
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.117 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.117 
+       <./images/aspectj0.png> <./images/aspectj0Plot.png>]
+<./images/nihssh0.png, id=85, 574.145pt x 478.78876pt>
+File: ./images/nihssh0.png Graphic file (type png)
+<use ./images/nihssh0.png>
+Package pdftex.def Info: ./images/nihssh0.png  used on input line 123.
+(pdftex.def)             Requested size: 390.0pt x 325.23598pt.
+ [8
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.128 
+       <./images/nihssh0.png>]
+<./images/nihssh1.png, id=92, 568.1225pt x 479.7925pt>
+File: ./images/nihssh1.png Graphic file (type png)
+<use ./images/nihssh1.png>
+Package pdftex.def Info: ./images/nihssh1.png  used on input line 134.
+(pdftex.def)             Requested size: 390.0pt x 329.37332pt.
+ [9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.142 
+       <./images/nihssh1.png>]
+<./images/nihPost.png, id=99, 559.08875pt x 480.79625pt>
+File: ./images/nihPost.png Graphic file (type png)
+<use ./images/nihPost.png>
+Package pdftex.def Info: ./images/nihPost.png  used on input line 147.
+(pdftex.def)             Requested size: 390.0pt x 335.39592pt.
+ [10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.152 
+       <./images/nihPost.png>] [11] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -324,18 +378,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 04E078BC450814851FCFE4D9A7CDA46D;322.
  ) 
 Here is how much of TeX's memory you used:
- 8851 strings out of 469006
- 139861 string characters out of 5454814
- 546144 words of memory out of 5000000
- 37452 multiletter control sequences out of 15000+600000
+ 8910 strings out of 469006
+ 141194 string characters out of 5454814
+ 546424 words of memory out of 5000000
+ 37502 multiletter control sequences out of 15000+600000
  630481 words of font info for 49 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  90i,7n,93p,334b,445s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/lm287091/Library/texlive/2026basic/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (7 pages, 170771 bytes).
+Output written on main.pdf (11 pages, 246797 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 77 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 27 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
